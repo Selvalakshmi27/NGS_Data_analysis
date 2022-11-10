@@ -1,4 +1,8 @@
-# NGS_Data_analysis
+# NGS_Data_analysis_Pipeline
+
+To pull docker image
+docker pull selva27051999/spades_pipeline
+
 Docker file code for NGS Bacterial Whole Genome Sequence Analysis from Quality control to Phylogeny
 
 Pipeline 
